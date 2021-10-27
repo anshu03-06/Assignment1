@@ -1,0 +1,29 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "document": "^0.4.7",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.2",
+    "https": "^1.0.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^18.0.0",
+    "mongoose": "^6.0.12",
+    "node-fetch": "^3.0.0",
+    "node-html-parser": "^5.0.0",
+    "nodemon": "^2.0.14",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
